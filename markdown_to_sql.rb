@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 if ARGV.length < 2
-  puts "\n\nUsage: ./markdown_to_sql.rb <input_file> <output file>\n\n"
+  puts "\n\nUsage: ./markdown_to_sql.rb <input_file> <output_file>\n\n"
 
   puts "Description: This script will take a data dictionary markdown file and "\
        "convert it to a SQL file.\n\n"
